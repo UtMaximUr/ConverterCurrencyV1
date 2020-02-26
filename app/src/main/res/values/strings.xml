@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConverterCurrency</string>
+    <string name="edit_text_hint"><font size="20">Введите сумму</font></string>
+    <string name="choice_exchange">Изменить валюту</string>
+    <string name="choice_exchange_in_list">Выбор валюты</string>
+
+
+</resources>
