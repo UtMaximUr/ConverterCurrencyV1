@@ -52,6 +52,7 @@
         android:cursorVisible="false"
         android:onClick="cancel"
         android:text="Отмена"
+        android:textAllCaps="false"
         android:textColor="@color/blue"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/toolbar"
